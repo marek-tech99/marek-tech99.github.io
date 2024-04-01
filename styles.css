@@ -1,0 +1,24 @@
+* {
+    font-family: "Public Sans", sans-serif;
+}
+
+body {
+    background-color: black;
+    color: seashell;
+    opacity: 0.9;
+}
+
+.nav {
+    display: inline;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+#logo {
+    height: 10px;
+    width: 50px;
+}
+
+.nav-menu {
+    text-decoration: underline;
+}
